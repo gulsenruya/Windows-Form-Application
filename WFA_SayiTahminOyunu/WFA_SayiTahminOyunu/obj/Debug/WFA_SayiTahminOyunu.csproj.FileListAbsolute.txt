@@ -1,0 +1,10 @@
+C:\Users\gulsen.ruya\source\repos\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\bin\Debug\WFA_SayiTahminOyunu.exe.config
+C:\Users\gulsen.ruya\source\repos\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\bin\Debug\WFA_SayiTahminOyunu.exe
+C:\Users\gulsen.ruya\source\repos\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\bin\Debug\WFA_SayiTahminOyunu.pdb
+C:\Users\gulsen.ruya\source\repos\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\obj\Debug\WFA_SayiTahminOyunu.csprojAssemblyReference.cache
+C:\Users\gulsen.ruya\source\repos\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\obj\Debug\WFA_SayiTahminOyunu.Form1.resources
+C:\Users\gulsen.ruya\source\repos\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\obj\Debug\WFA_SayiTahminOyunu.Properties.Resources.resources
+C:\Users\gulsen.ruya\source\repos\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\obj\Debug\WFA_SayiTahminOyunu.csproj.GenerateResource.cache
+C:\Users\gulsen.ruya\source\repos\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\obj\Debug\WFA_SayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\gulsen.ruya\source\repos\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\obj\Debug\WFA_SayiTahminOyunu.exe
+C:\Users\gulsen.ruya\source\repos\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\obj\Debug\WFA_SayiTahminOyunu.pdb
