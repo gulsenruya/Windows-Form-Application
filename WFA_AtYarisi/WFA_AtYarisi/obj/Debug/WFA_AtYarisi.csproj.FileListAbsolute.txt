@@ -1,0 +1,10 @@
+C:\Users\gulsen.ruya\source\repos\WFA_AtYarisi\WFA_AtYarisi\bin\Debug\WFA_AtYarisi.exe.config
+C:\Users\gulsen.ruya\source\repos\WFA_AtYarisi\WFA_AtYarisi\bin\Debug\WFA_AtYarisi.exe
+C:\Users\gulsen.ruya\source\repos\WFA_AtYarisi\WFA_AtYarisi\bin\Debug\WFA_AtYarisi.pdb
+C:\Users\gulsen.ruya\source\repos\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.csprojAssemblyReference.cache
+C:\Users\gulsen.ruya\source\repos\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.Form1.resources
+C:\Users\gulsen.ruya\source\repos\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.Properties.Resources.resources
+C:\Users\gulsen.ruya\source\repos\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.csproj.GenerateResource.cache
+C:\Users\gulsen.ruya\source\repos\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.csproj.CoreCompileInputs.cache
+C:\Users\gulsen.ruya\source\repos\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.exe
+C:\Users\gulsen.ruya\source\repos\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.pdb
