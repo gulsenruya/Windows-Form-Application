@@ -1,0 +1,19 @@
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.exe.config
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.exe
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.pdb
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.Form1.resources
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.exe
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.pdb
+C:\Users\gulsen\Desktop\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.exe.config
+C:\Users\gulsen\Desktop\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.exe
+C:\Users\gulsen\Desktop\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.pdb
+C:\Users\gulsen\Desktop\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.csprojAssemblyReference.cache
+C:\Users\gulsen\Desktop\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.Form1.resources
+C:\Users\gulsen\Desktop\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.Properties.Resources.resources
+C:\Users\gulsen\Desktop\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.csproj.GenerateResource.cache
+C:\Users\gulsen\Desktop\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.csproj.CoreCompileInputs.cache
+C:\Users\gulsen\Desktop\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.exe
+C:\Users\gulsen\Desktop\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.pdb
