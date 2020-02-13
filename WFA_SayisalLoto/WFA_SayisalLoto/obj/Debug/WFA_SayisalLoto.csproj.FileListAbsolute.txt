@@ -1,0 +1,10 @@
+C:\Users\gulsen.ruya\source\repos\WFA_SayisalLoto\WFA_SayisalLoto\bin\Debug\WFA_SayisalLoto.exe.config
+C:\Users\gulsen.ruya\source\repos\WFA_SayisalLoto\WFA_SayisalLoto\bin\Debug\WFA_SayisalLoto.exe
+C:\Users\gulsen.ruya\source\repos\WFA_SayisalLoto\WFA_SayisalLoto\bin\Debug\WFA_SayisalLoto.pdb
+C:\Users\gulsen.ruya\source\repos\WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.csprojAssemblyReference.cache
+C:\Users\gulsen.ruya\source\repos\WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.Properties.Resources.resources
+C:\Users\gulsen.ruya\source\repos\WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.csproj.GenerateResource.cache
+C:\Users\gulsen.ruya\source\repos\WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\gulsen.ruya\source\repos\WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.exe
+C:\Users\gulsen.ruya\source\repos\WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.pdb
+C:\Users\gulsen.ruya\source\repos\WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.btnkontrolEt.resources

@@ -1,0 +1,10 @@
+C:\Users\gulsen.ruya\source\repos\WFA_mcAdam\WFA_mcAdam\bin\Debug\WFA_mcAdam.exe.config
+C:\Users\gulsen.ruya\source\repos\WFA_mcAdam\WFA_mcAdam\bin\Debug\WFA_mcAdam.exe
+C:\Users\gulsen.ruya\source\repos\WFA_mcAdam\WFA_mcAdam\bin\Debug\WFA_mcAdam.pdb
+C:\Users\gulsen.ruya\source\repos\WFA_mcAdam\WFA_mcAdam\obj\Debug\WFA_mcAdam.csprojAssemblyReference.cache
+C:\Users\gulsen.ruya\source\repos\WFA_mcAdam\WFA_mcAdam\obj\Debug\WFA_mcAdam.Form1.resources
+C:\Users\gulsen.ruya\source\repos\WFA_mcAdam\WFA_mcAdam\obj\Debug\WFA_mcAdam.Properties.Resources.resources
+C:\Users\gulsen.ruya\source\repos\WFA_mcAdam\WFA_mcAdam\obj\Debug\WFA_mcAdam.csproj.GenerateResource.cache
+C:\Users\gulsen.ruya\source\repos\WFA_mcAdam\WFA_mcAdam\obj\Debug\WFA_mcAdam.csproj.CoreCompileInputs.cache
+C:\Users\gulsen.ruya\source\repos\WFA_mcAdam\WFA_mcAdam\obj\Debug\WFA_mcAdam.exe
+C:\Users\gulsen.ruya\source\repos\WFA_mcAdam\WFA_mcAdam\obj\Debug\WFA_mcAdam.pdb
