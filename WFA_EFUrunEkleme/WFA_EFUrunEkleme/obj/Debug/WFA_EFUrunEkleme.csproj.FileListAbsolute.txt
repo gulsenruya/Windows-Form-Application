@@ -1,0 +1,15 @@
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\bin\Debug\WFA_EFUrunEkleme.exe.config
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\bin\Debug\WFA_EFUrunEkleme.exe
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\bin\Debug\WFA_EFUrunEkleme.pdb
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\bin\Debug\EntityFramework.dll
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\bin\Debug\EntityFramework.xml
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\obj\Debug\WFA_EFUrunEkleme.csprojAssemblyReference.cache
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\obj\Debug\WFA_EFUrunEkleme.Form1.resources
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\obj\Debug\WFA_EFUrunEkleme.Properties.Resources.resources
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\obj\Debug\WFA_EFUrunEkleme.csproj.GenerateResource.cache
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\obj\Debug\WFA_EFUrunEkleme.csproj.CoreCompileInputs.cache
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\obj\Debug\WFA_EFUrunEkleme.csproj.CopyComplete
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\obj\Debug\WFA_EFUrunEkleme.exe
+C:\Users\gulsen\Desktop\24.02\WFA_EFUrunEkleme\WFA_EFUrunEkleme\obj\Debug\WFA_EFUrunEkleme.pdb
