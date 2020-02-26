@@ -1,0 +1,12 @@
+C:\Users\gulsen.ruya\source\repos\NTierNortwindProject\NTierNortwindProject.DAL\bin\Debug\NTierNortwindProject.DAL.dll.config
+C:\Users\gulsen.ruya\source\repos\NTierNortwindProject\NTierNortwindProject.DAL\bin\Debug\NTierNortwindProject.DAL.dll
+C:\Users\gulsen.ruya\source\repos\NTierNortwindProject\NTierNortwindProject.DAL\bin\Debug\NTierNortwindProject.DAL.pdb
+C:\Users\gulsen.ruya\source\repos\NTierNortwindProject\NTierNortwindProject.DAL\bin\Debug\EntityFramework.dll
+C:\Users\gulsen.ruya\source\repos\NTierNortwindProject\NTierNortwindProject.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gulsen.ruya\source\repos\NTierNortwindProject\NTierNortwindProject.DAL\bin\Debug\EntityFramework.xml
+C:\Users\gulsen.ruya\source\repos\NTierNortwindProject\NTierNortwindProject.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gulsen.ruya\source\repos\NTierNortwindProject\NTierNortwindProject.DAL\obj\Debug\NTierNortwindProject.DAL.csprojAssemblyReference.cache
+C:\Users\gulsen.ruya\source\repos\NTierNortwindProject\NTierNortwindProject.DAL\obj\Debug\NTierNortwindProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\gulsen.ruya\source\repos\NTierNortwindProject\NTierNortwindProject.DAL\obj\Debug\NTierNortwindProject.DAL.csproj.CopyComplete
+C:\Users\gulsen.ruya\source\repos\NTierNortwindProject\NTierNortwindProject.DAL\obj\Debug\NTierNortwindProject.DAL.dll
+C:\Users\gulsen.ruya\source\repos\NTierNortwindProject\NTierNortwindProject.DAL\obj\Debug\NTierNortwindProject.DAL.pdb
